@@ -1,8 +1,12 @@
-<h1>Hi 👋, I'm Archi Jain</h1>
+Aspiring Software Engineer | Full-Stack Developer 💻
+Passionate about building scalable, real-time & AI-powered systems.
+
+
+<!-- <h1>Hi 👋, I'm Archi Jain</h1>
 - 💻 Passionate about coding and technology<br>  
 - 🤝 Open to collaboration.<br>  
 - 🌱 I’m currently learning **Full Stack Development**<br>
-- 📫 How to reach me **imarchijain2405@gmail.com**<br>
+- 📫 How to reach me **imarchijain2405@gmail.com**<br> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
