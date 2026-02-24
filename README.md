@@ -1,4 +1,4 @@
-Aspiring Software Engineer | Full-Stack Developer 💻
+Aspiring Software Engineer | Full-Stack Developer 💻 <br>
 Passionate about building scalable, real-time & AI-powered systems.
 
 
